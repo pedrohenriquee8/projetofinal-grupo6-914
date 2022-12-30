@@ -2,13 +2,13 @@
 
 ## Apresentação do Projeto:
 
-- Esse projeto é apresentado à disciplina de PRIR/SRED e ISRE do 4º ano matutino do curso de nível médio/integrado de informática do Instituto Federal de Alagoas - Campus Arapiraca como requisito avaliativo, sob orientação do professor **Alaelson Jatobá**. Diante disso, segue uma tabela com os integrantes da equipe 6, com seus respectivos e-mails institucionais e suas respectivas interfaces de rede para o desenvolvimento do projeto em questão.
+- Esse projeto é apresentado à disciplina de PRIR/SRED e ISRE do 4º ano matutino do curso de nível médio/integrado de informática do Instituto Federal de Alagoas - Campus Arapiraca como requisito avaliativo, sob orientação do professor **Alaelson Jatobá**. Diante disso, segue uma tabela com os integrantes da equipe 6, com seus respectivos e-mails institucionais e suas respectivas interfaces de rede para o desenvolvimento da atividade avaliativa em questão.
 
 ## Guia
 
-- <a href = "">Visão Geral</a>
-- <a href = "">Planilha da Equipe</a>
-- <a href = "">Roteiro do Projeto</a>
+- [Visão Geral]()
+- [Planilha da Equipe]()
+- [Roteiro do Projeto]()
 
 ## Equipe
 
