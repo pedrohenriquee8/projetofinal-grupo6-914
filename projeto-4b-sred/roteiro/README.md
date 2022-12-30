@@ -2,7 +2,7 @@
 
 # Roteiro
 
-Na atual página, encontra-se o roteiro para os serviços desenvolvidos para o projeto em questão.
+Na atual página, encontra-se o roteiro para os serviços desenvolvidos pela equipe para o projeto em questão.
 
 [Parte 1: Gateway Server]() <br />
 [Parte 2: SAMBA]() <br />
