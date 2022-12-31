@@ -6,9 +6,9 @@
 
 ## Guia
 
-- [Visão Geral](https://github.com/pedrohenriquee8/projetofinal-grupo6-914/tree/main/projeto-4b-sred)
-- [Planilha da Equipe]()
-- [Roteiro do Projeto](https://github.com/pedrohenriquee8/projetofinal-grupo6-914/tree/main/projeto-4b-sred/roteiro)
+- [Visão Geral](https://github.com/pedrohenriquee8/projetofinal-grupo6-914/tree/main/projeto-4b-sred/README.md)
+- [Planilha da Equipe](https://github.com/pedrohenriquee8/projetofinal-grupo6-914/blob/main/projeto-4b-sred/planilha/README.md)
+- [Roteiro do Projeto](https://github.com/pedrohenriquee8/projetofinal-grupo6-914/tree/main/projeto-4b-sred/roteiro/README.md)
 
 ## Equipe
 
