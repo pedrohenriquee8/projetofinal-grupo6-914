@@ -14,6 +14,7 @@ Tabela 1: Configurações das interfaces utilizadas pela equipe.
 | DNS Master | 10.9.14.124 | 192.168.14.91 |
 | DNS Slave | 10.9.14.107 | 192.168.14.92 |
 
+Tabela 2: Serviços e seus respectivos domínios utilizados pela equipe.
 | Serviço | Domínio (FQDN) |
 | ------- | -------------- |
 | VM | grupo6.turma914.ifalara.local |
