@@ -15,7 +15,7 @@ hostnamectl set-hostname samba
 Após o comando, verifique se o hostname foi alterado com o comando `hostname`
 
 <div align="center">
-<p>Figura 1 - Hostname da máquina</p>
+<p>Figura 1 - Hostname da máquina.</p>
 <img src="../images/samba/hostname_smb.png" />
 </div>
 
@@ -34,7 +34,7 @@ whereis samba
 ```
 
 <div align="center"> 
-<p>Figura 2 - Verificando instalação do samba</p>
+<p>Figura 2 - Verificando instalação do samba.</p>
 <img src="../images/samba/whereis-samba.png" />
 </div>
 
@@ -48,7 +48,7 @@ sudo bash -c 'grep -v -E "^#|^;" /etc/samba/smb.conf.backup | grep . > /etc/samb
 ```
 
 <div align="center"> 
-<p>Figura 3 - Backup do arquivo smb.conf</p>
+<p>Figura 3 - Backup do arquivo smb.conf.</p>
 <img src="../images/samba/backup-conf-samba-2.png" />
 </div>
 
@@ -61,7 +61,7 @@ sudo nano /etc/samba/smb.conf
 ```
 
 <div align="center">
-<p>Figura 4 - Configurando o arquivo smb.conf</p>
+<p>Figura 4 - Configurando o arquivo smb.conf.</p>
 <img src="../images/samba/samba_conf.png" />
 </div>
 
@@ -71,7 +71,7 @@ Reinicie o servidor samba com o comando:
 sudo systemctl restart smbd
 ```
 
-<p>Figura 5 - Reiniciando o servidor samba</p>
+<p>Figura 5 - Reiniciando o servidor samba.</p>
 <div align="center"><img src="../images/samba/restart-samba.png" />
 </div>
 
@@ -80,14 +80,14 @@ sudo systemctl restart smbd
 Primeiro, crie um usuário para o compartilhamento.
 
 <div align="center"> 
-<p>Figura 6 - Criação do usuário aluno</p>
+<p>Figura 6 - Criação do usuário aluno.</p>
 <img src="../images/samba/add-user-aluno.png" />
 </div>
 
 Você precisará criar os usuários que terão acesso aos arquivos compartilhados. Isso pode ser feito com o comando "smbpasswd".
 
 <div align="center"> 
-<p>Figura 7 - Garantindo acesso ao usuário aluno</p>
+<p>Figura 7 - Garantindo acesso ao usuário aluno.</p>
 <img src="../images/samba/aluno-sambashare.png" />
 </div>
 
@@ -96,7 +96,7 @@ Você precisará criar os usuários que terão acesso aos arquivos compartilhado
 Agora você precisará criar os diretórios que serão compartilhados. Para isso, use o comando "mkDIR".
 
 <div align="center"> 
-<p>Figura 8 - Criação do diretório de compartilhamento</p>
+<p>Figura 8 - Criação do diretório de compartilhamento.</p>
 <img src="../images/samba/mkdir-sambashare.png" />
 </div>
 
@@ -105,7 +105,7 @@ Agora você precisará criar os diretórios que serão compartilhados. Para isso
 Você precisará atribuir as permissões de compartilhamento aos usuários e diretórios criados anteriormente. Para fazer isso, use o comando "chmod".
 
 <div align="center"> 
-<p>Figura 9 - Atribuindo permissões de compartilhamento</p>
+<p>Figura 9 - Atribuindo permissões de compartilhamento.</p>
 <img src="../images/samba/group-sambashare.png" />
 </div>
 
@@ -115,13 +115,13 @@ Abra o explorador de arquivos e coloque o endereço como o ip do servidor samba.
 
 <div align="center">
 <br>
-<p>Figura 10 - Login</p>
+<p>Figura 10 - Login.</p>
 <img src="../images/samba/explorer.png" />
 </div>
 
 <div align="center">
 <br>
-<p>Figura 11 - Acesso aos arquivos</p>
+<p>Figura 11 - Acesso aos arquivos.</p>
 <img src="../images/samba/explorer-done.png" />
 </div>
 
