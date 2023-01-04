@@ -123,6 +123,26 @@ Por fim, também será feito o mesmo procedimento para a interface DNS Master, o
 
 <hr />
 
+## Testes solicitados pelo docente:
+
+### Teste 1
+
+- Após implementar o gateway server envie o print do arquivo /etc/rc.local que você configurou após a implementação do serviço samba.
+
+<div align="center">
+<p>Figura 12 - Acesso ao arquivo /etc/rc.local.</p>
+<img src="../images/gateway/Primeiro teste.png" />
+</div>
+
+### Teste 2
+
+- No seu host, acesse o servidor samba através do IP do GW e envie o print da tela.
+
+<div align="center">
+<p>Figura 13 - Acesso ao samba através do IP do Gateway.</p>
+<img src="../images/gateway/Segundo teste.png" />
+</div> </br>
+
 ## Conclusão
 
 Nesse cenário, seguindo os procedimentos descritos, o gateway estará pronto para receber e encaminhar pacotes externos, desde a ativação do firewall até a configuração do arquivo _/etc/rc.local_ para a recepção e encaminhamento de pacotes com o servidor Samba e com o servidor DNS Master.
