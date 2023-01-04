@@ -129,4 +129,4 @@ Abra o explorador de arquivos e coloque o endereço como o ip do servidor samba.
 
 Se tudo foi configurado corretamente, você deve ser capaz de conectar-se ao servidor e compartilhar arquivos. Esperamos que este tutorial tenha lhe ajudado a criar um servidor Samba.
 
-[▶️ Prossiga para o serviço DNS Master](https://github.com/pedrohenriquee8/projetofinal-grupo6-914/blob/main/projeto-4b-sred/roteiro/gateway.md)
+[▶️ Prossiga para o serviço DNS Master](https://github.com/pedrohenriquee8/projetofinal-grupo6-914/blob/main/projeto-4b-sred/roteiro/ns1.md)
